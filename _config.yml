@@ -23,7 +23,7 @@ repository               : "RahatAhmed171/RahatAhmed171.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "resized.jpg"
   name             : "Rahat Imroz Ahmed"
   pronouns         : # example: "he/him"  
   bio              : "PhD applicant interested in Data Science and Geoinformatics"
