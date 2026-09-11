@@ -12,25 +12,32 @@ author_profile: true
 {% include base_path %}
 
 <!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+<h2>Conference Papers &amp; Works in Progress</h2><hr />
+
+<ul>
+  <li>
+    <p><strong>A Lightweight Hybrid Deep Learning Framework for Image-Based Air Quality Index Classification</strong><br />
+    <em>Working Draft Available</em>[cite: 1]</p>
+    <p>Introduces a lightweight hybrid architecture using ground-level sky imagery to classify AQI into six severity categories[cite: 1]. The model pairs a frozen ResNet50 backbone with spatial patchification and a shared Cross Stage Partial Block (CSPBlock) to deliver a 96.73% classification accuracy at 4.400 ms per image latency[cite: 1].</p>
+    <p>Recommended citation: Ahmed, R. I., et al. "A Lightweight Hybrid Deep Learning Framework for Image-Based Air Quality Index Classification." (Working Paper)[cite: 1].</p>
+    <p>Download Draft</p>
+  </li>
+
+  <li>
+    <p><strong>Bengali Handwritten Upazila-District Pair Name Recognition Using Ensemble Learning</strong><br />
+    <em>Submitted / Working Draft Available</em>[cite: 2]</p>
+    <p>Presents a system for recognizing 496 Bengali upazila-district administrative pair names using a new dataset of 9,808 segmented images (BNHW-UDPNR)[cite: 2]. Combines Vision Transformer (ViT-Base) and ConvNeXt-Tiny backbones via a weighted soft-voting scheme along with an unsupervised MSER and Canny edge segmentation pipeline, reaching a test accuracy of 94.65%[cite: 2].</p>
+    <p>Recommended citation: Ahmed, R. I., et al. "Bengali Handwritten Upazila-District Pair Name Recognition Using Ensemble Learning." (Submitted to Conference)[cite: 2].</p>
+    <p>Download Draft | Download Dataset</p>
+  </li>
+
+  <li>
+    <p><strong>Future Flood Susceptibility Mapping Under Climate and Land Use Change in Bangladesh</strong><br />
+    <em>In Progress</em>[cite: 3]</p>
+    <p>Adapts machine learning and optimization methods (PSO-optimized XGBoost, Random Forest, and Support Vector Machines) to model flood susceptibility[cite: 3]. Evaluates the combined impact of CA-Markov land use predictions and CMIP6 climate change scenarios (SSP126 and SSP585) specifically tailored to study areas in Bangladesh[cite: 3].</p>
+    <p>Recommended citation: Ahmed, R. I., et al. "Future Flood Susceptibility Mapping Under Climate and Land Use Change in Bangladesh." (In Progress)[cite: 3].</p>
+  </li>
+</ul>
 
 
 
