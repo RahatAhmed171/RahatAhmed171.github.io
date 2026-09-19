@@ -2,7 +2,7 @@
 title: "Future Flood Susceptibility Mapping Under Climate and Land Use Change in Bangladesh"
 collection: publications
 category: conferences
-permalink: /publication/2015-10-01-paper-title-number-3
+ 
 excerpt: 'A flood susceptibility mapping study focused on climate and land use change in Bangladesh.'
  
 paperurl: '/files/drafts/flood susceptibility intro draft.pdf'

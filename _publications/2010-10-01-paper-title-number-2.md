@@ -1,15 +1,18 @@
 ---
-title: "Bengali Handwritten Upazila-District Pair Name Recognition Using Ensemble Learning"
+title: "BengaliAddressNet: A Weighted Soft-Voting
+ Ensemble for Bengali Handwritten Upazila–District
+ Pair Name Recognition"
 collection: publications
 category: conferences
-permalink: /publication/2010-10-01-paper-title-number-2
+ 
 excerpt: 'BengaliAddressNet: A Weighted Soft-Voting
   Ensemble for Bengali Handwritten Upazila–District
   Pair Name Recognition.'
  
-paperurl: '/files/drafts/thesis_in_paper (1).pdf'
+paperurl: '/files/thesis_in_paper (1).pdf'
 ---
- ### Problem Solved
+ ** Problem it solves**
+
 Prior Bengali handwriting recognition focuses on single characters or words, leaving **multi-word administrative fields unexplored** due to a lack of datasets. Handwritten address pairs in Bangladesh pose severe challenges due to cursive script complexities, varying writing styles, and **high visual similarities across locations**. Manual processing of postal mail and official forms creates a major bottleneck for administrative document digitization. This paper solves these challenges by enabling **automated end-to-end recognition of combined upazila-district name pairs**.
 
 ### Contributions Made
