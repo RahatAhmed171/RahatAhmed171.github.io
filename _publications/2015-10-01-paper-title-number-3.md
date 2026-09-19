@@ -4,11 +4,12 @@ collection: publications
 category: conferences
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'A flood susceptibility mapping study focused on climate and land use change in Bangladesh.'
-date: 2015-10-01
-paperurl: '/files/drafts/flood-mapping-paper.pdf'
+ 
+paperurl: '/files/drafts/flood susceptibility intro draft.pdf'
 ---
-Research area: Flood susceptibility mapping, remote sensing, GIS, climate change, and machine learning
+Developing a national-scale flood susceptibility model for Bangladesh that integrates machine learning with future land use/land cover (LULC) projections and CMIP6 climate scenarios, addressing a key gap in existing literature which typically considers these factors separately or at sub-regional scales. The study plans to apply metaheuristic hyperparameter optimization (e.g., Particle Swarm Optimization) to machine learning models such as XGBoost, Random Forest, and SVM to improve predictive accuracy.
 
-In drafting period
+**Currently in the experimentation phase, evaluating candidate ML algorithms and optimization strategies; results and final model selection are pending.**
 
-[Draft of the paper]({{ page.paperurl }})
+
+[Draft of the paper(introduction)]({{ page.paperurl }})
