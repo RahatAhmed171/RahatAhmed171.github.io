@@ -2,6 +2,7 @@
 title: "A Lightweight Hybrid Deep Learning Framework for Image-Based Air Quality Index Classification"
 collection: publications
 category: conferences
+permalink: /publication/paper-title-number-1
  
 excerpt: 'A study of image-based air quality index classification using computer vision and deep learning.'
  

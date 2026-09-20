@@ -4,6 +4,7 @@ title: "BengaliAddressNet: A Weighted Soft-Voting
  Pair Name Recognition"
 collection: publications
 category: conferences
+permalink: /publication/paper-title-number-2
  
 excerpt: 'BengaliAddressNet: A Weighted Soft-Voting
   Ensemble for Bengali Handwritten Upazila–District
