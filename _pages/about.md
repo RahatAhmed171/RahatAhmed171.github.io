@@ -7,7 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a recent graduate from Premier University Chattogram with a BSc in Computer Science and Engineering.
-My research focuses on **deep learning and computer vision**, where I have worked on **Bangla handwritten geographic-name recognition across 496 upazila–district classes using deep learning and vision-based models**.
 
-I am currently seeking **PhD positions in Computer Science, Machine Learning, Computer Vision, and Artificial Intelligence** starting Fall 2027. My research interests include **handwritten text and visual recognition, deep learning and computer vision, and the application of machine learning and deep learning to geospatial data and problems**.
+
+I am a recent BSc graduate in Computer Science and Engineering from Premier University Chattogram, applying to **MS and PhD programs in Computer Science, Machine Learning and Computer Vision** for Fall 2027.
+
+My research focuses on **building machine learning systems for real-world visual and spatial data, and making them accurate and reliable.** My first accepted paper, *BengaliAddressNet*, introduces a **9,808-image dataset** and a **ViT + ConvNeXt ensemble** that recognizes handwritten Bengali upazila–district pairs across all **496 administrative classes**, reaching **94.65% test accuracy**.
+
+I am now working on two further directions:
+
+- **Flood susceptibility modeling for Bangladesh:** combining machine learning with future land use/land cover projections and CMIP6 climate scenarios at national scale.
+- **Confidence calibration of medical vision-language models:** testing whether the confidence of medical VLMs on VQA-RAD and SLAKE matches their actual accuracy.
+
+I am interested in research on **document and handwriting recognition, geospatial machine learning, and uncertainty and reliability in multimodal models.**
