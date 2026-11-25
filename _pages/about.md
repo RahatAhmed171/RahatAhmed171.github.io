@@ -11,7 +11,7 @@ redirect_from:
 
 I am a recent BSc graduate in Computer Science and Engineering from Premier University Chattogram, applying to **MS and PhD programs in Computer Science, Machine Learning and Computer Vision** for Fall 2027.
 
-My research focuses on **building machine learning systems for real-world visual and spatial data, and making them accurate and reliable.** My first accepted paper, *BengaliAddressNet*, introduces a **9,808-image dataset** and a **ViT + ConvNeXt ensemble** that recognizes handwritten Bengali upazila–district pairs across all **496 administrative classes**, reaching **94.65% test accuracy**.
+My research focuses on **building machine learning systems for real-world visual and spatial data, and making them accurate and reliable.** My first accepted paper, *BengaliAddressNet*, introduces a **9,828-image dataset** and a **ViT + ConvNeXt ensemble** that recognizes handwritten Bengali upazila–district pairs across all **496 administrative classes**, reaching **94.84% test accuracy**.
 
 I am now working on two further directions:
 
